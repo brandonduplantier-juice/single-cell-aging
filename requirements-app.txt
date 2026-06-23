@@ -1,0 +1,4 @@
+# light dashboard only (no scanpy/anndata/pydeseq2): deploys fast
+pandas>=2.0,<3.0
+streamlit>=1.30
+plotly>=5.18
