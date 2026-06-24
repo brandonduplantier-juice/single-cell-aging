@@ -1,0 +1,30 @@
+{
+  "n_cells": 5218,
+  "n_cell_types": 32,
+  "de_cell_types": [
+    "B cell",
+    "adventitial cell",
+    "bronchial smooth muscle cell",
+    "classical monocyte",
+    "endothelial cell of lymphatic vessel",
+    "fibroblast of lung",
+    "myeloid dendritic cell",
+    "non-classical monocyte",
+    "smooth muscle cell of the pulmonary artery",
+    "type II pneumocyte",
+    "vein endothelial cell"
+  ],
+  "n_sig_by_celltype": {
+    "B cell": 53,
+    "adventitial cell": 296,
+    "bronchial smooth muscle cell": 259,
+    "classical monocyte": 115,
+    "endothelial cell of lymphatic vessel": 833,
+    "fibroblast of lung": 150,
+    "myeloid dendritic cell": 104,
+    "non-classical monocyte": 172,
+    "smooth muscle cell of the pulmonary artery": 312,
+    "type II pneumocyte": 222,
+    "vein endothelial cell": 74
+  }
+}

@@ -1,0 +1,62 @@
+age_group,_celltype,frac
+old,B cell,0.05447755034816213
+old,"CD4-positive, alpha-beta T cell",0.008069575189223317
+old,"CD8-positive, alpha-beta T cell",0.028600639856682077
+old,NK cell,0.00812653246742259
+old,T cell,0.007177433571873019
+old,adventitial cell,0.0373339496079514
+old,bronchial smooth muscle cell,0.4457890349575748
+old,ciliated columnar cell of tracheobronchial tree,0.010519360685305226
+old,classical monocyte,0.0354528242483497
+old,club cell of bronchiole,0.004954657808204976
+old,dendritic cell,0.015382744285850385
+old,endothelial cell of lymphatic vessel,0.014219210071543201
+old,fibroblast of lung,0.09304762584442385
+old,intermediate monocyte,0.0018050541516245488
+old,leukocyte,0.014551056877577129
+old,lung macrophage,0.004255003906494969
+old,lung neuroendocrine cell,0.0021019670241889015
+old,lymphocyte,0.005555492611639676
+old,mature NK T cell,0.01405152224824356
+old,myeloid dendritic cell,0.08251569063831882
+old,neutrophil,0.02650364645820174
+old,non-classical monocyte,0.024279542111079487
+old,pericyte cell,0.007975973349718111
+old,plasma cell,0.008962917130672524
+old,plasmacytoid dendritic cell,0.00366360593941618
+old,pulmonary interstitial fibroblast,0.003791717526009013
+old,regulatory T cell,0.01204637392427013
+old,respiratory basal cell,0.029467087283646547
+old,smooth muscle cell of the pulmonary artery,0.016643286148490262
+old,type II pneumocyte,0.018548709084338155
+old,vein endothelial cell,0.030035051997991648
+young,B cell,0.03342010476382887
+young,"CD4-positive, alpha-beta T cell",0.02976541696969003
+young,"CD8-positive, alpha-beta T cell",0.008288851134245871
+young,NK cell,0.02713435658198556
+young,T cell,0.002631578947368421
+young,adventitial cell,0.13447841987464634
+young,bronchial smooth muscle cell,0.27648731725300485
+young,ciliated columnar cell of tracheobronchial tree,0.013544377939762958
+young,classical monocyte,0.06160383675461542
+young,club cell of bronchiole,0.0066704178275586706
+young,dendritic cell,0.01419172932330827
+young,endothelial cell of lymphatic vessel,0.05264874291760306
+young,fibroblast of lung,0.09123428661345973
+young,intermediate monocyte,0.013938756513013939
+young,leukocyte,0.0028038847117794483
+young,lung macrophage,0.002976190476190476
+young,lung neuroendocrine cell,0.002631578947368421
+young,lymphocyte,0.0028038847117794483
+young,myeloid dendritic cell,0.037488406970396286
+young,neutrophil,0.021002094383279296
+young,non-classical monocyte,0.049985394637290265
+young,pericyte cell,0.01205450297235743
+young,plasmacytoid dendritic cell,0.002631578947368421
+young,pulmonary interstitial fibroblast,0.037556159423577776
+young,regulatory T cell,0.002631578947368421
+young,respiratory basal cell,0.004234544695071011
+young,smooth muscle cell of the pulmonary artery,0.03716026289551179
+young,type I pneumocyte,0.007333737348836573
+young,type II pneumocyte,0.06475027224686584
+young,vein endothelial cell,0.02728068446558695

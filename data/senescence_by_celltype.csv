@@ -1,0 +1,62 @@
+_celltype,age_group,senescence_score
+B cell,old,0.105816066
+B cell,young,0.10923155
+"CD4-positive, alpha-beta T cell",old,0.11926534
+"CD4-positive, alpha-beta T cell",young,0.12259678
+"CD8-positive, alpha-beta T cell",old,0.10202068
+"CD8-positive, alpha-beta T cell",young,0.12454322
+NK cell,old,0.08670082
+NK cell,young,0.09210059
+T cell,old,0.14783347
+T cell,young,0.0
+adventitial cell,old,0.39237633
+adventitial cell,young,0.35384676
+bronchial smooth muscle cell,old,0.30227634
+bronchial smooth muscle cell,young,0.30484343
+ciliated columnar cell of tracheobronchial tree,old,0.20468424
+ciliated columnar cell of tracheobronchial tree,young,0.20137952
+classical monocyte,old,0.21980025
+classical monocyte,young,0.24178264
+club cell of bronchiole,old,0.17042704
+club cell of bronchiole,young,0.04308087
+dendritic cell,old,0.40797284
+dendritic cell,young,0.38939944
+endothelial cell of lymphatic vessel,old,0.112702966
+endothelial cell of lymphatic vessel,young,0.13518952
+fibroblast of lung,old,0.20517905
+fibroblast of lung,young,0.16625428
+intermediate monocyte,old,0.2918437
+intermediate monocyte,young,0.2357687
+leukocyte,old,0.29112482
+leukocyte,young,0.23114282
+lung macrophage,old,0.106304795
+lung macrophage,young,0.40780482
+lung neuroendocrine cell,old,0.047436524
+lung neuroendocrine cell,young,0.13717039
+lymphocyte,old,0.32491106
+lymphocyte,young,0.17959468
+mature NK T cell,old,0.3362484
+myeloid dendritic cell,old,0.13601498
+myeloid dendritic cell,young,0.14225933
+neutrophil,old,0.0553851
+neutrophil,young,0.013763761
+non-classical monocyte,old,0.15406588
+non-classical monocyte,young,0.19504072
+pericyte cell,old,0.07559599
+pericyte cell,young,0.13821293
+plasma cell,old,0.100003764
+plasmacytoid dendritic cell,old,0.08234551
+plasmacytoid dendritic cell,young,0.14992712
+pulmonary interstitial fibroblast,old,0.18013775
+pulmonary interstitial fibroblast,young,0.21717456
+regulatory T cell,old,0.11296072
+regulatory T cell,young,0.0
+respiratory basal cell,old,0.16464041
+respiratory basal cell,young,0.17673902
+smooth muscle cell of the pulmonary artery,old,0.27471516
+smooth muscle cell of the pulmonary artery,young,0.21267252
+type I pneumocyte,young,0.15424527
+type II pneumocyte,old,0.15959635
+type II pneumocyte,young,0.11342051
+vein endothelial cell,old,0.2345867
+vein endothelial cell,young,0.24842565

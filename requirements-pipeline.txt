@@ -1,0 +1,7 @@
+﻿# Local pipeline deps for run_all.py only. Not used by the deployed app.
+anndata>=0.10
+pydeseq2==0.5.4
+pandas>=2.0,<3.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
