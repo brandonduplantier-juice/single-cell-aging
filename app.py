@@ -66,6 +66,23 @@ with st.expander("New here? How to read this", expanded=False):
         "way to avoid counting the same animal thousands of times."
     )
 
+with st.expander("Key terms"):
+    st.markdown(
+        "- **Single-cell RNA-seq**: measuring gene activity in thousands of individual "
+        "cells separately, instead of averaging a whole tissue.\n"
+        "- **Cell type**: the category a cell belongs to, like immune or stem cell.\n"
+        "- **Composition**: the mix of cell types. Aging can shift the mix.\n"
+        "- **Aging genes**: genes that get louder or quieter with age within one cell "
+        "type.\n"
+        "- **Senescence**: a worn-out cell state that builds up with age. The score "
+        "averages a panel of known markers.\n"
+        "- **Pseudobulk**: grouping each mouse's cells together before testing, so the "
+        "statistics count animals, not cells. The honest way to avoid counting one "
+        "animal thousands of times.\n"
+        "- **FDR**: the false-discovery-rate cutoff (0.05 here) that keeps false alarms "
+        "low when testing many genes at once."
+    )
+
 if meta:
     c1, c2, c3 = st.columns(3)
     c1.metric("Cells analyzed", "{:,}".format(meta.get("n_cells", 0)))
