@@ -115,3 +115,7 @@ with known aging biology, not as discoveries.
 
 Data: Tabula Muris Senis (The Tabula Muris Consortium, Nature 2020); raw GSE132042.
 Method: pseudobulk DE via pydeseq2. Research and portfolio project.
+
+## Project navigation
+
+- [Engineering guide](ENGINEERING.md): directory map, development workflow and review standards.
