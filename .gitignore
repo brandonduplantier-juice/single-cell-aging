@@ -3,3 +3,9 @@ data/*.h5ad
 __pycache__/
 *.pyc
 .venv/
+
+# Local development artifacts
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.ipynb_checkpoints/
